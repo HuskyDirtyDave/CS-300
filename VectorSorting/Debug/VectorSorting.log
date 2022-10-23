@@ -1,0 +1,4 @@
+﻿  VectorSorting.cpp
+C:\Users\david\OneDrive\Desktop\VectorSorting\VectorSorting.cpp(94,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\david\OneDrive\Desktop\VectorSorting\VectorSorting.cpp(328,31): warning C4018: '<': signed/unsigned mismatch
+  VectorSorting.vcxproj -> C:\Users\david\OneDrive\Desktop\VectorSorting\Debug\VectorSorting.exe
