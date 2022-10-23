@@ -1,0 +1,5 @@
+﻿  CSVparser.cpp
+  LinkedList.cpp
+C:\Users\david\OneDrive\Desktop\CS 300 Linked List Assignment Student Files\LinkedList\LinkedList.cpp(298,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  LinkedList.vcxproj -> C:\Users\david\OneDrive\Desktop\CS 300 Linked List Assignment Student Files\LinkedList\Debug\LinkedList.exe
